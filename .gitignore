@@ -1,0 +1,15 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# R workspace / data files
+.RData
+.Rhistory
+.Rproj.user/
+
+# OS specific files
+Thumbs.db
+.DS_Store
